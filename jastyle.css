@@ -19,10 +19,36 @@ a{
     /**wb when dem a click?
     */
 }
+@font-face {
+        font-family: 'bertilda';
+        src: url(bertilda.tff);
+    }
+
+h1{
+    font-family: 'bertilda', sans-serif;
+    font-size: 90px;
+    font-weight:500;
+    color: #EBD070;
+
+
+    /*@font-face supremacyyyyy ....use font weight as font bleaching cream hehe
+    OMGEEE YOU AN USE WEIGHT AS STANDARD ODVKDSNF
+    */
+}
+
+.heading_fi_dem{
+    text-align: center;
+    /*forgotten how to centre a div wihtout text but uh*/
+}
 
 h2{
+    
     font-family: 'Inter', sans-serif;
     font-style: italic;
+    font-weight: 400;
+    color: #B4B4B9;
+    position: relative;
+    top: -80px;
     /*
     look at setting the actual font stlying and dem man
     */

@@ -5,11 +5,17 @@ body{
 
 }
 
+.questionbank{
+    color: #F98FA8;
+    background-color: #F0F0F0;
+    text-align: center;
+}
 
 .navbar{
     background-color:#F98FA8;
     font-family: 'Inter', sans-serif;
     text-align: center;
+    font-weight: 700;
     height: 40px;
  /*text in tthe nav middle???*/
     
@@ -36,6 +42,16 @@ h1{
     OMGEEE YOU AN USE WEIGHT AS STANDARD ODVKDSNF
     */
 }
+
+.rect
+{
+    background-color: #FDCFDA;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+}
+
 
 .heading_fi_dem{
     text-align: center;

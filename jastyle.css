@@ -21,6 +21,27 @@ body{
     
 }
 
+.newbtn{
+    width: 90px;
+    height: 40px;
+    background-color: white;
+    color: #F98FA8;
+    border: 5px solid #F98FA8;
+    margin: auto;
+
+    /*set yuh bloodclaart border to solid*/
+}
+
+.foreign{
+    font-style: normal;
+    font-weight: 700;
+}
+
+.next{
+    color: #F98FA8;
+    font-weight: 600;
+}
+
 a{
     color: white;
     /**wb when dem a click?

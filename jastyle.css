@@ -8,8 +8,28 @@
     background-color: rgb(EBD070);
 }
 .navbar{
-    background-color: rgb(F98FA8);
+    background-color:#F98FA8;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    
 }
+
+a{
+    color: white;
+    /**wb when dem a click?
+    */
+}
+
+h2{
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+    /*
+    look at setting the actual font stlying and dem man
+    */
+
+}
+
+/**you idiottt you cant use rgb with hex???
 
 
 /*there are wayyy too many pink types girl forgettit*/

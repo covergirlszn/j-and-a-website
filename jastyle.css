@@ -1,16 +1,17 @@
-.pinkdiv{
-    background-color: rgb(F98FA8);
+body{
+    font-family: 'Inter',sans-serif;
+    font-weight: 400;
+    
+
 }
-.pinkdiv2{
-    background-color: rgb(FDCFDA);
-}
-.golddiv2{
-    background-color: rgb(EBD070);
-}
+
+
 .navbar{
     background-color:#F98FA8;
     font-family: 'Inter', sans-serif;
     text-align: center;
+    height: 40px;
+ /*text in tthe nav middle???*/
     
 }
 
@@ -39,6 +40,33 @@ h1{
 .heading_fi_dem{
     text-align: center;
     /*forgotten how to centre a div wihtout text but uh*/
+}
+
+.invert{
+    background-color: white;
+    color: #F98FA8;
+}
+
+.bookbtn{
+    background-color: #F98FA8;
+    width: 168px;
+    height: 60px;
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+
+.imgc{
+    width: 600px;
+    height: 100%;
+    margin: auto;
+    /*why define one dimension for margin cdentering?>??*/
+}
+
+.imagecheck{
+    width:600px;
+    
+
 }
 
 h2{

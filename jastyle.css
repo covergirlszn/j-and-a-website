@@ -21,6 +21,21 @@ body{
     
 }
 
+.bookingopts{
+    font-family: 'bertilda',sans-serif;
+    color: #F98FA8;
+    font-weight: lighter;
+    font-size: 80px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, .7);
+    position: relative;
+    top: -600px;
+    margin: auto;
+    width: 300px;
+    height: fit-content;
+
+}
+
 .newbtn{
     width: 90px;
     height: 40px;

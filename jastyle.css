@@ -35,14 +35,62 @@ body{
     height: fit-content;
 
 }
+.addons{
+    background-color: rgba(249, 143, 168, .49);
+    width: 300px;
+    height: 300px;
+    color: white;
+    font-weight: 600;
+    float: left;
+}
+
+.whitebg{
+    background-color: rgba(255, 255, 255, .7);
+position: relative;
+
+top: -600px;
+}
+
+.comms{
+    
+background-color: white;
+width: 300px;
+height: 300px;
+font-weight: 400;
+border: 2px solid #F98FA8;
+}
+
+.calendar{
+    width: 400px;
+    height: 300px;
+    border: 5px solid #EBD070;
+    float: left;
+}
+
+.payy{
+    width: 400px;
+    height: 300px;
+    float: right;
+}
+
+.entry{
+    color: #b4b4b9;
+    width: 500px;
+    height: 35px;
+    font-style: italic;
+    /*how fi bold */
+    border: 1px solid #b4b4b99d;
+
+}
 
 .newbtn{
     width: 90px;
     height: 40px;
     background-color: white;
-    color: #F98FA8;
+    color: #9a9a9a;
     border: 5px solid #F98FA8;
     margin: auto;
+    text-align: center;
 
     /*set yuh bloodclaart border to solid*/
 }

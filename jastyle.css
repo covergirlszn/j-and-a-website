@@ -140,7 +140,8 @@ h1{
 .heading_fi_dem{
     text-align: center;
     /*forgotten how to centre a div wihtout text but uh*/
-}
+position: relative;
+    top: -65px;}
 
 .invert{
     background-color: white;
@@ -157,14 +158,14 @@ h1{
 }
 
 .imgc{
-    width: 600px;
+    width: fit-content;
     height: 100%;
     margin: auto;
     /*why define one dimension for margin cdentering?>??*/
 }
 
 .imagecheck{
-    width:600px;
+    width:1020px;
     
 
 }

@@ -179,7 +179,9 @@ h1{
 }
 
 .imagecheck{
-    width:1020px;
+    width:70%;
+
+    margin-top: -100px;
     
 
 }

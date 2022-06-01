@@ -1,7 +1,7 @@
 # j-and-a-website (100 days of code!!)
 my first website website!! javascript to come
 
-btw adding custom fonts is with ontface xox
+btw adding custom fonts is with fontface xox
 
 DAY 1 - 31.5.22
 okay so erm i need to read on how to grid and i probabyl should check the length on the css
@@ -15,3 +15,5 @@ TO DO...
 - read on how to use grid for respopnsive fcc and general tutorial
 - how to make responsive sef for shrinking on a phone
 - cropping for images for frontal part
+
+1.6.22.....technically the second because i havent done much. research affi set!

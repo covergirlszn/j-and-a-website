@@ -17,3 +17,17 @@ TO DO...
 - cropping for images for frontal part
 
 1.6.22.....technically the second because i havent done much. research affi set!
+
+5.6.22.
+technically the 4th. gosh it has been a white. day 6??? sorryyyy!
+
+but i found this.... so to vertically centre sum w one line  you make the line height the same as the height height......next stop css positioning
+
+if not.......use flexbox xo 
+______________________________
+display: flex;
+  justify-content: center;
+  align-items: center;
+______________________________
+
+yeah

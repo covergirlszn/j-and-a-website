@@ -19,7 +19,8 @@ body{
     height: 40px;
     position: relative;
     top: -115px;
- /*text in tthe nav middle???*/
+    line-height: 40px;
+     /*text in tthe nav middle???*/
     
 }
 
@@ -109,7 +110,8 @@ border: 2px solid #F98FA8;
 
 a{
     color: white;
-    /**wb when dem a click?
+    /*margin: 0.3%;
+    **wb when dem a click?
     */
 }
 @font-face {
@@ -137,6 +139,7 @@ h1{
     margin: auto;
     text-align: center;
     position: relative;
+    padding: 0 20px ;
     top: -100px;
 }
 

@@ -132,10 +132,12 @@ h1{
 .rect
 {
     background-color: #FDCFDA;
-    width: 600px;
-    height: 400px;
+    width: 900px;
+    height: 550px;
     margin: auto;
     text-align: center;
+    position: relative;
+    top: -100px;
 }
 
 .heading_fi_dem2{
